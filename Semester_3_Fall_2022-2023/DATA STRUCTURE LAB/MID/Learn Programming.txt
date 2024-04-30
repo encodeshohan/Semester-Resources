@@ -1,0 +1,72 @@
+Learn C/C++
+==============
+
+1. Data Types and variables
+---> (sign) int 32 bits (-2^31 to 2^31)
+------> unsigned int -- 32 bits (0 to 2^32)
+---> (sign) long long int - 64 bits (-2^63 to 2^63)
+
+--> float -- 32 bits -- single precision
+--> float -- 64 bits -- double precision
+--> char -- 8 bits
+--> boolean   True/false -- 0/1
+
+2. Expression and Operator
+--> Arithmetic Operator (+,-,*,/,%)
+--> Relational (>,>=,<,<=,==,!=)
+--> Logical (&&,||)
+--> ternary operator a>b?10:20;
+
+3. Branching
+---> if
+--> if else
+--> if .. else if .. else if .. else
+--> switch
+
+4. Loops
+
+--> for Loop
+--> while
+--> do while
+--------> break, continue
+
+5. Pointer/Array
+
+Pointer
+=========
+--> call by reference and call by value(swap)
+--> Pointer Arithmetic
+
+6. Function
+============
+input:
+--> no arguments
+--> a number
+--> List of number/ Pointer(1D-array/2D-Matrix)
+
+output:
+--> No return(void in C++/Java)
+--> return a number
+--> return list of number/ Pointer(1D-array/2D-Matrix)
+
+More about Function
+==================
+--> Recursive Function
+	--> Fibonachi
+	--> Factorial
+--> User Define function
+--> Library Function
+
+
+Dynamic memory
+============
+---> Scope of Variables
+---> Dynamic memory allocation in C/C++
+---> malloc , calloc, free (C)
+---> new , delete (C++)
+
+Structure
+=======
+--> structure pointer
+
+
