@@ -1,1 +1,41 @@
-#Semester-Resources
+# Semester Resources
+
+Welcome to the resources for my university courses. Here are links to each course:
+
+## Semester 2 - Summer 2021-2022
+- [Discrete Mathematics](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_2_Summer_2021-2022/DISCRETE%20MATHEMATICS)
+- [English Writing Skills & Communications](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_2_Summer_2021-2022/ENGLISH%20WRITING%20SKILLS%20%26%20COMMUNICATIONS)
+- [Integral Calculus & Ordinary Differential Equations](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_2_Summer_2021-2022/INTEGRAL%20CALCULUS%20%26%20ORD.%20DIFF%20EQUATION)
+- [Object Oriented Programming 1 (JAVA)](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_2_Summer_2021-2022/OBJECT%20ORIENTED%20PROGRAMMING%201%20(JAVA))
+- [Physics 2 Lab](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_2_Summer_2021-2022/PHYSICS%202%20LAB)
+- [Physics 2](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_2_Summer_2021-2022/PHYSICS%202)
+
+## Semester 3 - Fall 2022-2023
+- [Complex Variable, Laplace & Z-transformation](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_3_Fall_2022-2023/COMPLEX%20VARIABLE%2CLAPLACE%20%26%20Z-TRANSFORMATION)
+- [Computer Aided Design & Drafting](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_3_Fall_2022-2023/COMPUTER%20AIDED%20DESIGN%20%26%20DRAFTING)
+- [Data Structure Lab](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_3_Fall_2022-2023/DATA%20STRUCTURE%20LAB)
+- [Data Structure](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_3_Fall_2022-2023/DATA%20STRUCTURE)
+- [Introduction to Databases](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_3_Fall_2022-2023/INTRODUCTION%20TO%20DATABASE)
+- [Introduction To Electrical Circuits Lab](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_3_Fall_2022-2023/INTRODUCTION%20TO%20ELECTRICAL%20CIRCUITS%20LAB)
+- [Introduction To Electrical Circuits](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_3_Fall_2022-2023/INTRODUCTION%20TO%20ELECTRICAL%20CIRCUITS%20%5BH%5D)
+
+## Semester 4 - Spring 2022-2023
+- [Chemistry](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_4_Spring_2022-2023/CHEMISTRY)
+- [Electronic Devices Lab](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_4_Spring_2022-2023/ELECTRONIC%20DEVICES%20LAB)
+- [Matrices, Vectors, Fourier Analysis](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_4_Spring_2022-2023/MATRICES%2C%20VECTORS%2C%20FOURIER%20ANALYSIS)
+- [Object Oriented Analysis And Design](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_4_Spring_2022-2023/OBJECT%20ORIENTED%20ANALYSIS%20AND%20DESIGN)
+- [Principles Of Accounting](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_4_Spring_2022-2023/PRINCIPLES%20OF%20ACCOUNTING)
+
+## Semester 5 - Summer 2022-2023
+- [Algorithms](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_5_Summer_2022-2023/ALGORITHMS)
+- [Bangladesh Studies](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_5_Summer_2022-2023/BANGLADESH%20STUDIES%20%5BFST%5D)
+- [Computational Statistics And Probability](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_5_Summer_2022-2023/COMPUTATIONAL%20STATISTICS%20AND%20PROBABILITY)
+- [Electronic Devices](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_5_Summer_2022-2023/ELECTRONIC%20DEVICES)
+
+## Semester 6 - Fall 2023-2024
+- [Digital Logic And Circuits Lab](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/DIGITAL%20LOGIC%20AND%20CIRCUITS%20LAB)
+- [Digital Logic And Circuits](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/DIGITAL%20LOGIC%20AND%20CIRCUITS)
+- [Numerical Methods For Science And Engineering](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/NUMERICAL%20METHODS%20FOR%20SCIENCE%20AND%20ENGINEERING)
+- [Principles Of Economics](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/PRINCIPLES%20OF%20ECONOMICS%20(FST))
+- [Theory Of Computation](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/THEORY%20OF%20COMPUTATION)
+
