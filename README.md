@@ -42,3 +42,7 @@ Welcome to the resources for my university courses. Here are links to each cours
 
 ##
 - [Business Communication](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/BUSINESS%20COMMUNICATION%20%5BFST-FE%5D)
+- [Computer Graphics](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/COMPUTER%20GRAPHICS)
+- [Data Communication](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/DATA%20COMMUNICATION)
+- [Microprocessor And Embedded Systems](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/MICROPROCESSOR%20AND%20EMBEDDED%20SYSTEMS)
+- [Software Engineering](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/SOFTWARE%20ENGINEERING)
