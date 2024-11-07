@@ -40,3 +40,5 @@ Welcome to the resources for my university courses. Here are links to each cours
 - [Principles Of Economics](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/PRINCIPLES%20OF%20ECONOMICS%20(FST))
 - [Theory Of Computation](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/THEORY%20OF%20COMPUTATION)
 
+##
+- [Business Communication](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/BUSINESS%20COMMUNICATION%20%5BFST-FE%5D)
