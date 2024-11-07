@@ -36,6 +36,7 @@ Welcome to the resources for my university courses. Here are links to each cours
 - [Digital Logic And Circuits Lab](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/DIGITAL%20LOGIC%20AND%20CIRCUITS%20LAB)
 - [Digital Logic And Circuits](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/DIGITAL%20LOGIC%20AND%20CIRCUITS)
 - [Numerical Methods For Science And Engineering](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/NUMERICAL%20METHODS%20FOR%20SCIENCE%20AND%20ENGINEERING)
+- [Object Oriented Programming 2](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/OBJECT%20ORIENTED%20PROGRAMMING%202)
 - [Principles Of Economics](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/PRINCIPLES%20OF%20ECONOMICS%20(FST))
 - [Theory Of Computation](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_6_Fall_2023-2024/THEORY%20OF%20COMPUTATION)
 
