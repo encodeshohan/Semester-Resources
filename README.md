@@ -55,3 +55,7 @@ Welcome to the resources for my university courses. Here are links to each cours
 - [Data Communication](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/DATA%20COMMUNICATION)
 - [Microprocessor And Embedded Systems](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/MICROPROCESSOR%20AND%20EMBEDDED%20SYSTEMS)
 - [Software Engineering](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/SOFTWARE%20ENGINEERING)
+
+##
+- [Compiler Design](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_8_Summer_2023-2024/COMPILER%20DESIGN)
+- [Research Methodology](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_8_Summer_2023-2024/RESEARCH%20METHODOLOGY)
