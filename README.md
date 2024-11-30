@@ -57,5 +57,6 @@ Welcome to the resources for my university courses. Here are links to each cours
 - [Software Engineering](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_7_Spring_2023-2024/SOFTWARE%20ENGINEERING)
 
 ##
+- [Artificial Intelligence And Expert System](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_8_Summer_2023-2024/ARTIFICIAL%20INTELLIGENCE%20AND%20EXPERT%20SYSTEM)
 - [Compiler Design](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_8_Summer_2023-2024/COMPILER%20DESIGN)
 - [Research Methodology](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_8_Summer_2023-2024/RESEARCH%20METHODOLOGY)
