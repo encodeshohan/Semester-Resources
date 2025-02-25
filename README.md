@@ -1,7 +1,7 @@
 # Semester Resources 
   
 Welcome to the resources for my university courses. Here are links to each course:
-
+ 
 ##
 - 🗂️ [Diff Calculus And Coordinate Geometry](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_1_Spring_2021-2022/DIFF%20CALCULUS%20AND%20COORDINATE%20GEOMETRY)
 - 🗂️ [English Reading Skills & Public Speaking](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_1_Spring_2021-2022/ENGLISH%20READING%20SKILLS%20%26%20PUBLIC%20SPEAKING)
