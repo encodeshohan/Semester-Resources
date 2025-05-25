@@ -64,3 +64,4 @@ Welcome to the resources for my university courses. Here are links to each cours
 
 ##
 - 🗂️ [Engineering Ethics](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_9_Fall_2024-2025/ENGINEERING%20ETHICS)
+- 🗂️ [Machine Learning](https://github.com/encodeshohan/Semester-Resources/tree/main/Semester_9_Fall_2024-2025/MACHINE%20LEARNING)
